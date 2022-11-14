@@ -87,7 +87,7 @@ function App() {
               <Card.Title>TBA: Another mobile app</Card.Title>
               <Card.Subtitle className="mb-2 text-muted">2022-Present</Card.Subtitle>
               <Card.Text>
-                Not gonna lie, I really do like Swift and mobile apps. This is a cool concept, more unique and more challenging than an events app. Ok well the events app was challenging for its own reasons. Honestly it was more of just a personelle issue for some of it but as soon as the rest of us figured out the maps API and ditched React Native it was pretty smooth. Anyways, this one has some cool people thinking about it. Still in the concept stage but has some designs. Idk, maybe it happens maybe not. I think it will dabble in wearables a bit too and everyone RAVES about wearables. I do not get the hype but that's just me I guess.
+                Not gonna lie, I really do like Swift and mobile apps. This is a cool concept, more unique and more challenging than an events app. Ok well the events app was challenging for its own reasons. Honestly it was more of just a personnel issue for some of it but as soon as the rest of us figured out the maps API and ditched React Native it was pretty smooth. Anyways, this one has some cool people thinking about it. Still in the concept stage but has some designs. Idk, maybe it happens maybe not. I think it will dabble in wearables a bit too and everyone RAVES about wearables. I do not get the hype but that's just me I guess.
               </Card.Text>
             </Card.Body>
           </Card>
